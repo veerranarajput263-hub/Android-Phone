@@ -1,0 +1,8 @@
+{
+  "name": "Creative AI Studio",
+  "description": "An interactive AI assistant capable of storytelling, generating speech, chatting organically.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
